@@ -1,0 +1,20 @@
+﻿dashboard_admin_panel
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\
+dashboard_admin_panel
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\App.xaml
+3-363539613
+
+7-1751724
+2062010777728
+MainWindow.xaml;User Controls\InfoCard.xaml;User Controls\Item.xaml;
+
+False
+

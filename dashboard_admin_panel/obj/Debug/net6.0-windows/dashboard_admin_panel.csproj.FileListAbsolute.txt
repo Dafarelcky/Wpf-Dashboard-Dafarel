@@ -1,0 +1,31 @@
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\dashboard_admin_panel.exe
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\dashboard_admin_panel.deps.json
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\dashboard_admin_panel.runtimeconfig.json
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\dashboard_admin_panel.dll
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\dashboard_admin_panel.pdb
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.csproj.AssemblyReference.cache
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\App.baml
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel_MarkupCompile.cache
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel_MarkupCompile.lref
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.g.resources
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.AssemblyInfoInputs.cache
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.AssemblyInfo.cs
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.csproj.CoreCompileInputs.cache
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.csproj.CopyComplete
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.dll
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\refint\dashboard_admin_panel.dll
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.pdb
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\dashboard_admin_panel.genruntimeconfig.cache
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\ref\dashboard_admin_panel.dll
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\User Controls\InfoCard.baml
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\User Controls\InfoCard.g.cs
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\User Controls\Item.baml
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\obj\Debug\net6.0-windows\User Controls\Item.g.cs
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\Dafarel\source\repos\dashboard\dashboard_admin_panel\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
